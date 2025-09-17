@@ -6,6 +6,6 @@
     "@google/generative-ai": "^0.1.0"
   },
   "engines": {
-    "node": ">=18"  // Vercel supports 18+; this ensures correct runtime.
+    "node": ">=18" 
   }
 }
