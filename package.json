@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "@google/generative-ai": "^0.1.0"  // Add this if using Gemini (see updated code below)
+    "@google/generative-ai": "^0.1.0" 
   }
 }
